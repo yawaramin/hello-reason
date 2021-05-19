@@ -26,11 +26,11 @@
     "@opam/dune": ">=2.6",
     "@reason-native/console": "*",
     "@reason-native/pastel": "*",
-    "@esy-ocaml/reason": ">= 3.6.0 < 4.0.0",
+    "@esy-ocaml/reason": ">= 3.7.0 < 4.0.0",
     "ocaml": "~4.10.0"
   },
   "devDependencies": {
-    "@opam/merlin": "*",
+    "@opam/ocaml-lsp-server": "*",
     "@reason-native/rely": "*",
     "refmterr": "*",
     "@opam/odoc": "*"
